@@ -5,6 +5,7 @@ import apiConfig
 
 # Twitter authentication stuff
 global api
+# API keys are stored in a separate file
 access_token = apiConfig.access_token
 access_token_secret = apiConfig.access_token_secret
 consumer_key = apiConfig.consumer_key
